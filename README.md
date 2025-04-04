@@ -103,5 +103,5 @@ Pour automatiser, ajouter les tests dans l'onglet `Tests` de chaque requête et 
 ---
 
 ## 📌 Auteur
-Projet réalisé par [Ton Nom]
+Projet réalisé par lcs-93
 
